@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<joaoM0raes>&theme=<THEME_NAME>" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoM0raes)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoaoM0raes/joaoM0raes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

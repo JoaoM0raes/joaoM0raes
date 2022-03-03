@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/joaoM0raes/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<joaoM0raes>&theme=<THEME_NAME>" />
 <!--
 **JoaoM0raes/joaoM0raes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

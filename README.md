@@ -1,6 +1,11 @@
 ### Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=joaoM0raes&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoM0raes&show_icons=true&theme=radical)
+<a >
+  <img align="center" src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoM0raes&show_icons=true&theme=radical) />
+</a>
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 

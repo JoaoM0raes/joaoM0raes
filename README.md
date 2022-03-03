@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Header](![image](https://user-images.githubusercontent.com/87389843/156477750-2cf76bca-95ec-499f-acfe-7974acd93be0.png)
- "Header")](https://some-url.dev/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoM0raes&show_icons=true&theme=radical)
 

@@ -1,9 +1,9 @@
 
 ## 💬 GitHub Stats
-<a href="https://github.com/JoaoMOraes">
+<a href="https://github.com/joaoM0raes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoM0raes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joao´s GitHub Stats" />
 </a>
-<a href="https://github.com/JoaoM0raes/joaoM0raes">
+<a href="https://github.com/JoaoM0raes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoM0raes&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
